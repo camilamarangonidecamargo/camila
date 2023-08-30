@@ -1,10 +1,10 @@
-###BEM VINDO AO MEU PERFIL
+### BEM VINDO AO MEU PERFIL
 
 - Meu nome é camila
 
 - estou cursando o alura
 
-###CONTATO 
+### CONTATO 
 
 CAMILA.MARANGONI.CAMARGO@ESCOLA.PR.GOV.BR
 
